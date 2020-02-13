@@ -3,7 +3,7 @@
 """
 Created on Thu Feb  7 16:34:29 2019
 19.04.19
-@author: michael cretignier & jémémie francfort
+@author: michael cretignier & jémémie francfortjjjjjjjjjjjjjjjjjj
 
 # =====================================================================================
 # Rolling Alpha Shape for a Spectral Improved Normalisation Estimator (RASSINE)
